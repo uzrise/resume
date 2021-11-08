@@ -2,43 +2,37 @@
 
 ### Front-end developer
 
-[Github]()  |  [LinkedIn](https://www.linkedin.com/in/abdulbosit-abdusattorov-347956210/)  |  [Email](abdusattorov.abdulbosit87@gmail.com)
+[Github](https://github.com/uzrise)  |  [LinkedIn](https://www.linkedin.com/in/abdulbosit-abdusattorov-347956210/)  |  [Email](abdusattorov.abdulbosit87@gmail.com)
 
-Front-end Developer with experience working on projects involving JavaScript, React , Redux , various styling libraries , HTML/CSS Preprocessors (LESS/SASS), RESTful APIs, web optimization, and version control (Git).
+Front-end Developer with experience working on projects involving JavaScript, React , Redux , various styling libraries , HTML/CSS Preprocessors (SASS), RESTful APIs, web optimization, and version control (Git).
 I also have experience working in Agile environments, on remote teams, and with various internal/external stakeholders.
 
 # Skills
 
 - Language : Javascript(ES6)
-- Web development: HTML, CSS , Sass , Motion-framer, React, Next.js, SWR, PWA, JSx ReactQuery, Rest APIs ,Redux, React – Router v4, React – Redux, Leaflet, Leaflet-Draw, JSON, ChartJS
-- UX/UI : Adobe XD, Figma
+- Web development: HTML, CSS , Sass,Scss , Motion-framer, React, Next.js, SWR, PWA, JSx ReactQuery, Rest APIs ,Redux, React – Router, React – Redux, JSON
+- UX/UI : Figma
 - CSS frameworks : Ant-design, Bootstrap, Materialize
 - Additional : Experience with collaborative development tools (Git , GitHub , Gitlab, Azure repos) , Webpack , Postman , Swagger , Yarn & NPM packages MS Teams , Slack JIRA , pm2
 - OS : MacOS, Windows, 7 Ubuntu 16.04, 17.01. 
 
 # Experience 
 
-Avtech | Tashkent | Front-end Developer | September 2021 - Present
-
-- Found the right solution to the Bugs
-- Frontend Standart Library future reuse in other modules
-- Optimizing Images
-- Added Regex(Regular Expression) to the inputs
-- Converting from class component to functional component
-- Optimizing components
-- Fixing Paginationproblem | When click after 10th page and product editing then pagination shows first page
-- Performance optimization
-
-Nolbir | C-space - Tashkent | Front-end Developer | April 2021 – August 2021 - Contractor from Nolbir
+Nolbir | C-space - Tashkent | Front-end Developer | February 2021- Present - Contractor from Nolbir
 
 - Code reviewing
 - Optimizing components
 - Performance optimization 
-- Creating booking system 
 - Build the admin module
+- SEO
+- Google analytics 
+- Facebook Pixel 
+- Integration of API
+- Compatible with SWR
+- Leads to Admin panel/Telegram
 
 
-Hopemedical - Tashkent | Frontend developer | May 2020 - Contractor from Nolbir | 
+Hopemedical - Tashkent | Frontend developer | May 2021 - Contractor from Nolbir | 
 Link website : [Hopemedical](https://main.drnocgjo5jdd6.amplifyapp.com/)
 
 - Converting Figma to HTML/CSS
@@ -51,24 +45,32 @@ Link website : [Hopemedical](https://main.drnocgjo5jdd6.amplifyapp.com/)
 - Compatible with SWR
 - Leads to Admin panel/Telegram
 
-BiznesRivoj - Tashkent | Front-end developer | April 2020 - Contractor from Nolbir | 
+BiznesRivoj - Tashkent | Front-end developer | April 2021 - Contractor from Nolbir | 
 Link website : [BiznesRivoj](https://www.biznesrivoj.uz/)
 - Code reviewing
 - Optimizing components 
 - Converting Figma to HTML/CSS any pages
-- Integration Currency of API
+- Integration of API
+- Integration of Cloudinary
+- Leads to admin panel/Telegram
+- Using newest features of NextJS
+- Creating reusable flexible components
+- Optimizing images “next/image”
+- Building this website flexible to mobile
+- Optimizing data
+- SEO best full
+- Facebook pixel
+- Google analytics
 
-Public service | Tashkent | Front-end Developer | June 2020 – December 2020
 
-- Delivering UI individual modules - Code reviewing
-- Optimizing components
-- Performance optimization
+AmanaTrade | Front-end developer | February 2021- May-2021 - Contractor from Nolbir | 
+Link website : [AmanaTrade](https://amanatrade.com/)
 
-Uztransgaz | Tashkent |  UI/UX designer | January 2019 – May 2020
 
-- UI / UX design creation
-- Research and development of UX
-- Research and development of modern UI
+- Building this website flexible to mobile
+- Image optimization in Nextjs 'next/image'
+- Converting Figma to HTML/CSS
+- Authentication
 
 # LANGUAGES
 - Uzbek - Fluent
