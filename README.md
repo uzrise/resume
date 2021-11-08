@@ -74,5 +74,5 @@ Link website : [AmanaTrade](https://amanatrade.com/)
 
 # LANGUAGES
 - Uzbek - Fluent
-- English - Intermediate 
-- Russian - Intermediate
+- English - Elementary 
+- Russian - Pre Intermediate
