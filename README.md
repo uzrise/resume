@@ -18,6 +18,19 @@ I also have experience working in Agile environments, on remote teams, and with 
 
 # Experience 
 
+OneApp| Front-end Developer | December 2022- Present | Link website : [OneApp](https://oneapp.ly/)
+
+
+- Code reviewing
+- Optimizing components
+- Performance optimization 
+- Build the admin module
+- SEO
+- Google analytics 
+- Integration of API
+- Compatible with SWR
+
+
 Nolbir | C-space - Tashkent | Front-end Developer | February 2021- Present - Contractor from Nolbir
 
 - Code reviewing
