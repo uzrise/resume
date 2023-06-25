@@ -4,8 +4,9 @@
 
 [Github](https://github.com/uzrise)  |  [LinkedIn](https://www.linkedin.com/in/abdulbosit/)  |  [Email](abdusattorov.abdulbosit87@gmail.com)
 
-Front-end Developer with experience working on projects involving JavaScript, React , Redux , various styling libraries , HTML/CSS Preprocessors (SASS), RESTful APIs, web optimization, and version control (Git).
-I also have experience working in Agile environments, on remote teams, and with various internal/external stakeholders.
+I am a skilled front-end developer with 2 years of experience in building optimized and performant web applications. Have worked on various projects using technologies such as React.js, Next.js, and Redux. My expertise lies in optimizing components, performance optimization, code reviewing, SEO implementation, integrating APIs and creating reusable flexible components. I have also worked on projects that involved converting Figma to HTML/CSS pages and mobile optimization. With my skills in Git, Postman, Jira and GitHub among others; I am confident that I can contribute to any project's success.
+
+
 
 # Skills
 
@@ -20,6 +21,7 @@ I also have experience working in Agile environments, on remote teams, and with 
 
 OneApp| Front-end Developer | December 2022- Present | Link website : [OneApp](https://oneapp.ly/)
 
+ By optimizing and updating the package, I reduced the build time from 17 minutes to 4 minutes and 45 seconds
 
 - Code reviewing
 - Optimizing components
