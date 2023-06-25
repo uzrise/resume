@@ -33,7 +33,7 @@ OneApp| Front-end Developer | December 2022- Present | Link website : [OneApp](h
 - Compatible with SWR
 
 
-Nolbir | C-space - Tashkent | Front-end Developer | February 2021- Present - Contractor from Nolbir
+Nolbir | C-space - Tashkent | Front-end Developer | February 2021- December 2021- Contractor from Nolbir
 
 - Code reviewing
 - Optimizing components
