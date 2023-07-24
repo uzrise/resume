@@ -2,7 +2,7 @@
 
 ### Front-end developer
 
-[Github](https://github.com/uzrise)  |  [LinkedIn](https://www.linkedin.com/in/abdulbosit/)  |  [Email](abdusattorov.abdulbosit87@gmail.com)
+[Github](https://github.com/uzrise)  |  [LinkedIn](https://www.linkedin.com/in/abdulbosit/)  |  [Email](uzrise@gmail.com)
 
 I am a skilled front-end developer with 2 years of experience in building optimized and performant web applications. Have worked on various projects using technologies such as React.js, Next.js, and Redux. My expertise lies in optimizing components, performance optimization, code reviewing, SEO implementation, integrating APIs and creating reusable flexible components. I have also worked on projects that involved converting Figma to HTML/CSS pages and mobile optimization. With my skills in Git, Postman, Jira and GitHub among others; I am confident that I can contribute to any project's success.
 
@@ -89,5 +89,5 @@ Link website : [AmanaTrade](https://amanatrade.com/)
 
 # LANGUAGES
 - Uzbek - Fluent
-- English - Pre Intermediate
-- Russian - Pre Intermediate
+- English - Intermediate
+- Russian - Intermediate
